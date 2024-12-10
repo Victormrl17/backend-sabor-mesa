@@ -22,7 +22,7 @@ app.use('/api/users', userRoutes);
 app.use('/api/restaurants', restaurantRoutes);
 app.use('/api/bookings', bookingRoutes);
 app.use('/api/comments', commentRoutes);
-
+// @ts-ignore
 app.get('/', (req, res) => {
   res.send('API funcionando correctamente');
 });

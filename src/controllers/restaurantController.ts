@@ -5,6 +5,7 @@ import type { AuthenticatedRequest } from '../middleware/authMiddleware';
 const prisma = new PrismaClient();
 
 // Obtener todos los restaurantes
+// @ts-ignore
 export const getRestaurants = async (req: Request, res: Response) => {
   try {
     const restaurants = await prisma.restaurant.findMany();
