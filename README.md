@@ -115,7 +115,7 @@ This API allows users to register, login, and make bookings at restaurants. It i
 
 Full stack Developer:
 
-- Victor Ramirez - [@Victormrl17](https://github.com/Victormrl17) (https://www.linkedin.com/in/victor-ramirez-8049a4193/)
+- Victor Ramirez - [Linkedin](https://www.linkedin.com/in/victor-ramirez-8049a4193/)
 
 ## Acknowledgments
 
